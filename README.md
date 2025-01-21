@@ -21,7 +21,7 @@ Ce projet est une application web permettant d'acheter des mangas en ligne. L'ut
 1. **Récupération du code**:
    - Crée un dossier et clonez le dépôt en utilisant la commande suivante :
    ```git
-   git clone <Lien_du_dépôt>
+   git clone https://github.com/Karuran12/Projet-README/tree/main
    ```
 
 2. **Configurer le serveur local**:
